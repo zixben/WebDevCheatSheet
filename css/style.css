@@ -1,0 +1,61 @@
+nav ul {
+    list-style-type: none;
+}
+
+li a{
+    font-size: 30px;
+}
+
+li a:hover {
+    color: white;
+	background-color: #111;
+}
+
+.main-heading {
+    text-align: center;
+    color: #824533;
+}
+
+.sub-heading {
+    text-align: center;
+    color: #C95E2F;
+}
+
+.example {
+    color: #CE704A;
+}
+
+table {
+    border: 2px solid #CE704A;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+th {
+    padding: 5px;
+}
+
+td {
+    padding: 5px;
+    border-top: 1px solid #CE704A;
+}
+
+.size-align {
+    text-align: center;
+}
+
+body {
+    font-family: monospace;
+    color: #824533;
+    background-color: #BEB1A1;
+}
+
+.code {
+    background-color: white;
+}
+
+.background {
+    background-color: #d8ccbb;
+    width: fit-content;
+    padding: 10px;
+}
